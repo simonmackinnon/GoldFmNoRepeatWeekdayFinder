@@ -10,3 +10,16 @@ C:\Users\simon\Documents\Visual Studio 2015\Projects\GoldFmNoRepeatWeekdayFinder
 C:\Users\simon\Documents\Visual Studio 2015\Projects\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Release\ConsoleApplication1.exe
 C:\Users\simon\Documents\Visual Studio 2015\Projects\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Release\ConsoleApplication1.pdb
 C:\Users\simon\Documents\Visual Studio 2015\Projects\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Release\GoldFmNoRepeatWeekdayFinder.csprojResolveAssemblyReference.cache
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Release\ConsoleApplication1.exe.config
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Release\ConsoleApplication1.exe
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Release\ConsoleApplication1.pdb
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Release\EntityFramework.dll
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Release\EntityFramework.SqlServer.dll
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Release\Newtonsoft.Json.dll
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Release\EntityFramework.xml
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Release\EntityFramework.SqlServer.xml
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Release\Newtonsoft.Json.xml
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Release\GoldFmNoRepeatWeekdayFinder.csproj.CoreCompileInputs.cache
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Release\GoldFmNoRepeatWeekdayFinder.csproj.CopyComplete
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Release\ConsoleApplication1.exe
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Release\ConsoleApplication1.pdb

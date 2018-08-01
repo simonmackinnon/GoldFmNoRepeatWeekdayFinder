@@ -132,7 +132,7 @@ namespace GoldFmNoRepeatWeekdayFinder
                         sender.sendEmailAlert(nowPlayingSong, playlist);
                     }
 
-                    Thread.Sleep(5000);
+                    Thread.Sleep(20000);
                 }
                 catch { }
 

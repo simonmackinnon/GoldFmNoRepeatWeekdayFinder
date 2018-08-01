@@ -69,8 +69,10 @@ namespace GoldFmNoRepeatWeekdayFinder
 
         public int getCurrentSongPlayedCount(DateTime startTime, DateTime endTime)
         {
-            var matchingSongs = playlist.Where(x => x == nowPlayingSong).
-                Where(x => x.playedDateTime < endTime && x.playedDateTime > startTime);
+            var matchingSongs = playlist.Where(x => x.artist == nowPlayingSong.artist && 
+                                                    x.title == nowPlayingSong.title && 
+                                                    x.playedDateTime < endTime && 
+                                                    x.playedDateTime > startTime);
 
             return matchingSongs.Count();            
         }

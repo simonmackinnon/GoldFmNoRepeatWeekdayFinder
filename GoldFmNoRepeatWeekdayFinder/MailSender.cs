@@ -61,7 +61,7 @@ namespace GoldFmNoRepeatWeekdayFinder
             string subject = "Song analyser alert: " + song.title + " - " + song.artist;
             string body = "the song " + song.title + " - " + song.artist + " has been played multiple times today.\n";
 
-            foreach (var song_local in playlist.playlist.Where(x => x == song))
+            foreach (var song_local in playlist.playlist.Where(x => x.artist == song.artist && x.title == song.title))
             {
                 body += "Time: " + song_local.playedDateTime + "\n";
             }

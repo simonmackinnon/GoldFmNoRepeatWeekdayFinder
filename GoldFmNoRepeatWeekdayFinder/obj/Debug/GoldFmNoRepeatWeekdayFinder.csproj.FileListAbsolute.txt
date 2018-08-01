@@ -17,3 +17,17 @@ C:\Users\simon\Documents\Visual Studio 2015\Projects\GoldFmNoRepeatWeekdayFinder
 C:\Users\simon\Documents\Visual Studio 2015\Projects\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\simon\Documents\Visual Studio 2015\Projects\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\EntityFramework.xml
 C:\Users\simon\Documents\Visual Studio 2015\Projects\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\EntityFramework.SqlServer.xml
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\ConsoleApplication1.exe.config
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\ConsoleApplication1.exe
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\ConsoleApplication1.pdb
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\EntityFramework.dll
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\EntityFramework.SqlServer.dll
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\Newtonsoft.Json.dll
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\EntityFramework.xml
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\EntityFramework.SqlServer.xml
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\bin\Debug\Newtonsoft.Json.xml
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Debug\GoldFmNoRepeatWeekdayFinder.csprojAssemblyReference.cache
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Debug\GoldFmNoRepeatWeekdayFinder.csproj.CoreCompileInputs.cache
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Debug\GoldFmNoRepeatWeekdayFinder.csproj.CopyComplete
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Debug\ConsoleApplication1.exe
+Z:\workspace\GoldFmNoRepeatWeekdayFinder\GoldFmNoRepeatWeekdayFinder\obj\Debug\ConsoleApplication1.pdb
