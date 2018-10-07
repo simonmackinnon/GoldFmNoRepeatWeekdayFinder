@@ -121,6 +121,10 @@ namespace GoldFmNoRepeatWeekdayFinder
                     if (nowPlayingSong == null)
                         continue;
 
+                    if (nowPlayingSong.playedDateTime.DayOfWeek == DayOfWeek.Saturday ||
+                        nowPlayingSong.playedDateTime.DayOfWeek == DayOfWeek.Sunday)
+                        continue;
+
                     playlist.checkCurrentTrack(nowPlayingSong);
 
                     int numTimesPlayedToday = playlist.getCurrentSongPlayedCount(
@@ -130,6 +134,8 @@ namespace GoldFmNoRepeatWeekdayFinder
                     if (nowPlayingSong.type == "song" && numTimesPlayedToday > 1)
                     {
                         sender.sendEmailAlert(nowPlayingSong, playlist);
+                        Thread.Sleep(20000);
+                        break;
                     }
 
                     Thread.Sleep(20000);
